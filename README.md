@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm **Ashish Singh**, a **Rookie Software Developer** passionate about C++, Linux, and UI/UX design.  
+I'm **Ashish Singh**, a **Rookie Software Developer** passionate about React-Native,C++,Linux.  
 Here's a small piece of code that represents me:
 
 <div align="center">
