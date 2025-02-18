@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-**Aspharier/Aspharier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ashish Singh**, a **Rookie Software Developer** passionate about C++, Linux, and UI/UX design.  
+Here's a small piece of code that represents me:
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://s4.ezgif.com/tmp/ezgif-4ce946cf50b0c6.gif" width="300" alt="Coding GIF" align="right"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cpp
+#include <iostream>
+#include <vector>
+
+class SoftwareDeveloper {
+public:
+    SoftwareDeveloper() {
+        name = "Ashish Singh";
+        role = "Rookie Software Developer";
+        language_spoken = {"Hindi", "English"};
+    }
+
+    void say_hi() const {
+        std::cout << "Thanks for dropping by, hope you find some of my work interesting." << std::endl;
+    }
+
+private:
+    std::string name;
+    std::string role;
+    std::vector<std::string> language_spoken;
+};
+
+int main() {
+    SoftwareDeveloper me;
+    me.say_hi();
+    return 0;
+}
