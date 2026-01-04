@@ -7,19 +7,18 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## 🚀 About Me  
+## About Me  
 I'm **Ashish Singh**, a **Mobile Application Developer** passionate about **Kotlin, Android, React-Native, Linux** and all things tech!  
 I love building apps, optimizing code, and experimenting with new technologies.   
 
 ---
 
-## ✨ Here's a small piece of code that represents me:  
+## Here's a small piece of code that represents me:  
 
 
 ```cpp
